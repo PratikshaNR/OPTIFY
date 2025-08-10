@@ -34,5 +34,7 @@ CSS / Tailwind CSS (if applicable)
 
 LocalStorage API
 
+
+
 Contribution
 Feel free to fork this repository and contribute with new features or improvements!
